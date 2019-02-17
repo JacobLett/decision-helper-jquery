@@ -1,1 +1,1 @@
-# Decision Treee jQuery
+# Decision Tree jQuery
